@@ -1,2 +1,1 @@
-# ccc_baipiao
-Cocos白嫖
+Removed
